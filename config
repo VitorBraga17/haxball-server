@@ -1,0 +1,4 @@
+Host vitorbraga
+User ubuntu
+Hostname 152.67.44.21
+IdentityFile C:\Users\joaov\.ssh\ssh-key-2022-10-21.key
